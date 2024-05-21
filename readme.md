@@ -1,11 +1,12 @@
 # SAMD21 Breakout Board
 
 ## SS Breakout Board
+ATSAMD21G18A - ATSAMD mini breakout board
 Tutorial for sending I2C data from the ARM based MCU, the AT-SAMD21-G18A-F, from Microchip (aka Atmel). 
 
 ## TODO
-PWM signal based on input values, send as uint16_t value for duty cycle.
-
+- PWM signal based on input values, send as uint16_t value for duty cycle.
+- motor controller for mobility
 
 
 ## Troubleshooting
